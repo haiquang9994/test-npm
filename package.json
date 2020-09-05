@@ -1,7 +1,6 @@
 {
-  "name": "@light-js/testnpm",
+  "name": "@haiquang9994/testnpm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/haiquang9994/test-npm.git"
   },
-  "author": "",
+  "author": "haiquang9994@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/haiquang9994/test-npm/issues"
   },
-  "homepage": "https://github.com/haiquang9994/test-npm#readme"
+  "homepage": "https://github.com/haiquang9994/test-npm#readme",
+  "description": ""
 }
