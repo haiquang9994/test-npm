@@ -10,7 +10,7 @@
     "url": "git+https://github.com/haiquang9994/test-npm.git"
   },
   "author": "haiquang9994@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/haiquang9994/test-npm/issues"
   },
